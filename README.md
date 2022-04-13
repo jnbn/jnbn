@@ -14,8 +14,5 @@
 </p>
 
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://github.com/gazf/github-readme-twitter)
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jnbn&show_icons=true&locale=en" alt="jnbn" /></p>
 

@@ -14,8 +14,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jnbn&show_icons=true&locale=en&layout=compact" alt="jnbn" /></p>
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://github.com/gazf/github-readme-twitter)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jnbn&show_icons=true&locale=en" alt="jnbn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jnbn&" alt="jnbn" /></p>

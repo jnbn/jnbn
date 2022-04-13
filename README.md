@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jnbn" alt="jnbn" /></a> </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j04qnt261vrg4rj8yicp82g1d&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 <p align="left"> <a href="https://twitter.com/uguraydogdu_" target="blank"><img src="https://img.shields.io/twitter/follow/uguraydogdu_?logo=twitter&style=for-the-badge" alt="uguraydogdu_" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
